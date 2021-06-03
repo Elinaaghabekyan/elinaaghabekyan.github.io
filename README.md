@@ -2,9 +2,12 @@
 my personal website
 
 
-Elina Aghabekyan 
-Comm Lab Summer 2021 
+Elina Aghabekyan
+
+Comm Lab Summer 2021
+
 Instructor: Pierre Depaz 
+
 Assignment #1
 
 A Day In a Bug’s Life
